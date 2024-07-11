@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wanderlove-dev-58518-authRole",
+      "UnauthRoleArn": "arn:aws:iam::887970916546:role/amplify-wanderlove-dev-58518-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::887970916546:role/amplify-wanderlove-dev-58518-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-wanderlove-dev-58518-deployment",
+      "UnauthRoleName": "amplify-wanderlove-dev-58518-unauthRole",
+      "StackName": "amplify-wanderlove-dev-58518",
+      "StackId": "arn:aws:cloudformation:us-west-1:887970916546:stack/amplify-wanderlove-dev-58518/17aa7a50-3f1b-11ef-b395-06f385e625a7",
+      "AmplifyAppId": "dbiiorn3stnqo"
+    },
+    "categories": {
+      "auth": {
+        "wanderloved9b1664c": {}
+      },
+      "api": {
+        "wanderlove": {}
+      }
+    }
+  }
+}

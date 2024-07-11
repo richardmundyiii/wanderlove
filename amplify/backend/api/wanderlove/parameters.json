@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "wanderlove",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authwanderloved9b1664c",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

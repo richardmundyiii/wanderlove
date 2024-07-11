@@ -1,0 +1,13 @@
+.footer-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  margin-top: auto;
+}
+
+.footer-boxes li {
+  list-style: none;
+  text-align: right;
+}
